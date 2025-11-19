@@ -1,0 +1,2 @@
+Sitemap: https://mirfatif.github.io/sitemap.xml
+Sitemap: https://mirfatif.github.io/IAnswers/sitemap.xml
